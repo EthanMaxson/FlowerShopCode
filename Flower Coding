@@ -1,0 +1,4 @@
+//insert html and use webAssembly https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running 
+
+//All that is needed is 
+System.out.println"Hello Agile World!";
